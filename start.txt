@@ -1,0 +1,17 @@
+
+Hello from IMG_25522 !
+I'm really glad that you are using my terrible software!
+You can get some encourages from clicking my PVM.
+
+V1.0.1 (08/06/2024) New :
+    1.Fixed the Bug on form saving and opening.
+    2.Information reader (the button "Start") were improved.
+
+V1.0.0 (08/06/2024) New :
+    1.Now you can save, read and change file !
+    2.The scrollbars are added , although they can't be used now.
+    3.The encourages of my PVM were added.
+    4.The problem of "," were fixed.
+
+V Beta (Time lost) :
+    The oldest Version with some bugs ,you can't even save the form.
